@@ -1,0 +1,3 @@
+db.punchclock.insertOne(
+   { dayDate: "newDate()", officeManager: "DJ", user_id: 1, signInTime: new Timestamp() , signOutTime: new Timestamp() }
+)
